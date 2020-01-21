@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#845D4E</color>
+    <color name="colorPrimaryDark">#593D35</color>
+    <color name="colorAccent">#87C631</color>
+    <color name="corFundoBichos">#F4E8B8</color>
+    <color name="corFundoNumeros">#E5CEA3</color>
+</resources>

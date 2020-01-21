@@ -1,0 +1,10 @@
+package com.example.classemetodosnapratica;
+
+public class Cidadao {
+
+    public void direitosDeveres (){
+
+        System.out.println("Todo cidadão tem direitos e deveres");
+    }
+
+}
